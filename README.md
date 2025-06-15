@@ -29,4 +29,4 @@ This project demonstrates the discovery and exploitation of SQL Injection (SQLi)
 All testing was performed in a safe, controlled environment (offline lab). This project is strictly for educational purposes only.
 
 ## 📚 Author
-*Arvind* – Cybersecurity Enthusiast | Ethical Hacker
+*Pugal* – Cybersecurity Enthusiast | Ethical Hacker
